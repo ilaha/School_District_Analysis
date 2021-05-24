@@ -48,7 +48,7 @@
 
     - The five lowest-performing schools based on the lowest "% Overall Passing" are district schools that have a high student population. 
     
-    ![Lowest schools](lowest_five_schools.png")
+    ![Alt text](https://github.com/ilaha/School_District_Analysis/blob/main/lowest_five_school.png "Lowest top five")
         
     - Students from the Charter schools show better results compared to District schools.
 
