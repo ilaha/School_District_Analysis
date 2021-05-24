@@ -44,11 +44,11 @@
 
     - The top five highest-performing schools based on the highest % Overall Passing are charter schools that have a low student population.
     
-    ![Top schools](School_District_Analysis/top_five_schools.png)
+    ![Alt text](https://github.com/ilaha/School_District_Analysis/blob/main/top_five_school.png "Top five schools)
 
     - The five lowest-performing schools based on the lowest "% Overall Passing" are district schools that have a high student population. 
     
-    ![Alt text](https://github.com/ilaha/School_District_Analysis/blob/main/lowest_five_school.png "Lowest top five")
+    ![Alt text](https://github.com/ilaha/School_District_Analysis/blob/main/lowest_five_school.png "Lowest five schools")
         
     - Students from the Charter schools show better results compared to District schools.
 
